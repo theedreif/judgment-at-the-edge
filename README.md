@@ -1,5 +1,10 @@
 # Judgment at the Edge
 
+**Judgment Under Uncertainty** — decision architecture for high-consequence environments where signals, conditions, limits, and evidence shape defensible action.
+
+Ed Reif is an author, traveler, storyteller, and decision-science practitioner whose work explores what happens when uncertainty, risk, identity, and experience collide.
+
+
 ### Decision architecture for high-consequence environments.
 
 
