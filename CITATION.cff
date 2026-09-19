@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this repository, please cite it as below."
+title: "Judgment Under Uncertainty"
+type: software
+authors:
+  - family-names: "Reif"
+    given-names: "Ed"
+    alias: "theedreif"
+url: "https://github.com/theedreif/judgment-at-the-edge"
+repository-code: "https://github.com/theedreif/judgment-at-the-edge"
+abstract: "Judgment Under Uncertainty — decision architecture for high-consequence environments where signals, conditions, limits, and evidence shape defensible action."
+keywords:
+  - operational-readiness
+  - decision-science
+  - instructional-design
+  - human-performance
+  - judgment-under-uncertainty
+  - autonomous-systems
+  - field-learning
+  - ai-skills
