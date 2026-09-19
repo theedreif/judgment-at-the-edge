@@ -113,3 +113,12 @@ BUILD → DECIDE → POSITION → TEST → UPDATE
 **Field Tool 001 · Decision Field Card · v1.0**
 
 Created as part of the [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) field toolkit.
+
+
+## Field Tool 006
+
+### [DFR Judgment Card](./dfr-judgment-card.md)
+
+**NOTICE → INTEGRATE → PRIORITIZE → DECIDE → DEFEND**
+
+A compact framework for exercising and reviewing human judgment in Drone as First Responder and human-machine operating environments.
