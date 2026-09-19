@@ -2,6 +2,13 @@
 
 ### Decision architecture for high-consequence environments.
 
+
+> **ED REIF FIELD SYSTEM**  
+> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
+> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+
+---
+
 > **When reality departs from the plan, judgment becomes the operating system.**
 
 Judgment at the Edge is a practical framework for turning **signals, conditions, limits, and uncertainty into defensible action**.
