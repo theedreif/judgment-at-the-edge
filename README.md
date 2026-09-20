@@ -8,9 +8,10 @@ Ed Reif is an author, operational readiness architect, instructional systems des
 ### Decision architecture for high-consequence environments.
 
 
-> **ED REIF FIELD SYSTEM**  
-> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
-> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+> **ED REIF FIELD SYSTEM — SEVEN DOORS**  
+> [BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness) → [DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [POSITION · Decision Science](https://github.com/theedreif/decision-science) → [COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication) → [PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab) → [UPDATE · Field Notes](https://github.com/theedreif/field-notes) → [DEPLOY · ORaaS](https://github.com/theedreif/oraas)  
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**  
+> *One Body of Work. Seven Doors In.*
 
 ---
 
